@@ -1,6 +1,11 @@
 # LevelGeneration
 Unity 3D, C#
-Room Prefab, Starting and ending room. 
+
+
+3D Room Prefab, Starting and ending room. 
+
+Control Room numbers.
+
 T L + - shape room connections.
 
 Generation map Rooms with corriders
